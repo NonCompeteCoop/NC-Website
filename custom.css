@@ -12,6 +12,12 @@ iframe {
  height: auto;
 }
 
+/* PDF Viewer: */
+
+.pdf-viewer {
+ height: 75vh;
+}
+
 /* YouTube Video Embed Styling: */
 .yt-small {
 aspect-ratio: 16 / 9 !important;
