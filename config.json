@@ -1,9 +1,7 @@
-*/ Theme */
 {
   "theme": "letterpress"
 }
 
-*/ Nav Bar */
 {
   "nav": {
     "logo": "logo.jpeg",
