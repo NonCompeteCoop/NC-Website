@@ -14,11 +14,7 @@ iframe {
 
 /* PDF Viewer: */
 
-pdf-viewer {
- height: 75vh;
-}
-
-.pdfviewer {
+.internal {
  height: 75vh;
 }
 
