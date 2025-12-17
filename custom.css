@@ -15,6 +15,7 @@ iframe {
 /* PDF Viewer: */
 
 .internal {
+ width: 70%;
  height: 75vh;
 }
 
