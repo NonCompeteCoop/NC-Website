@@ -1,18 +1,18 @@
-/* Header Elements: *************************************
+/* Header Elements: ************************************* */
 
-/* Header Image:
+/* Header Image: */
 .page-header-image-container {
  width: 70%;
 }
 
-/* Embeds: *************************************
+/* Embeds: ************************************* */
 
-/* iframes:
+/* iframes: */
 iframe {
  height: auto;
 }
 
-/* YouTube Video Embed Styling:
+/* YouTube Video Embed Styling: */
 .yt-small {
 aspect-ratio: 16 / 9 !important;
  width: 70%;"
