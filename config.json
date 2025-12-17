@@ -4,23 +4,7 @@
 
 {
   "nav": {
-    "title": "NonCompete Collective",
-    "links": [
-      {
-        "href": "shop",
-        "name": "Shop"
-      },
-      {
-        "href": "/about",
-        "name": "About"
-      }
-    ],
-    "social": [
-      {
-        "label": "YouTube",
-        "name": "YouTube",
-        "href": "https://youtube.com/NonCompete/"
-      },
-    ]
+    "logo": "logo.jpeg",
+    "title": "My Digital Garden"
   }
 }
