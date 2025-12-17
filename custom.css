@@ -1,10 +1,19 @@
+/* Header Elements: *************************************
+
+/* Header Image:
+.page-header-image-container {
+ max-height: 250px;
+}
+
+/* Embeds: *************************************
+
+/* iframes:
+iframe {
+ height: auto;
+}
+
+/* YouTube Video Embed Styling:
 .yt-small {
 aspect-ratio: 16 / 9 !important;
  width: 70%;"
  }
-iframe {
- height: auto;
-}
-.page-header-image-container {
- max-height: 250px;
-}
