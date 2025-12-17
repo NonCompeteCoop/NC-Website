@@ -1,3 +1,22 @@
+*/ Theme */
 {
   "theme": "letterpress"
+}
+
+*/ Nav Bar */
+{
+  "nav": {
+    "logo": "logo.jpeg",
+    "title": "NonCompete"
+  }
+  "links": [
+      {
+        "href": "/shop",
+        "name": "Shop"
+      },
+      {
+        "href": "/about",
+        "name": "About"
+      }
+    ]
 }
