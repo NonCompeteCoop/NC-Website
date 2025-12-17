@@ -1,6 +1,6 @@
 This is a test! This is only a test!
 
-![](https://www.youtube.com/watch?v=GPcCYgyPJ0k&t=45s)
+![](https://www.youtube.com/watch?v=GPcCYgyPJ0k/)
 
 [[Shop]]
 
