@@ -1,5 +1,6 @@
 ---
 title: NonCompete Content Cooperative
+description: NonCompete Content Cooperative is leading the way (like Hotwheels)!
 ---
 
 This is a test! This is only a test!
