@@ -2,3 +2,6 @@
 aspect-ratio: 16 / 9 !important;
  width: 70%;"
  }
+iframe {
+ height: auto;
+}
