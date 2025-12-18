@@ -1,9 +1,13 @@
 ---
-title: "Non-Compete Home"
+title: "Debug Page"
 ---
 
-# Non-Compete Collective
+# Debugging the Video List
 
-## 🎥 Video Archive
+If the component is working, you should see a list of EVERY file in the vault below:
 
-<FileList folder="NonCompete/Videos" />
+<FileList folder="" />
+
+---
+
+If the space above is blank, the component is not working.
