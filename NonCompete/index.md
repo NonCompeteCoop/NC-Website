@@ -1,11 +1,9 @@
 ---
 title: "Non-Compete Home"
 ---
-
-# Non-Compete Collective
-
-## 🎥 Recent Videos
-<FileList folder="NonCompete/Videos" limit={3} />
-
----
-[📂 View All Videos](./Videos/index)
+TABLE WITHOUT ID
+  ("![|150](https://img.youtube.com/vi/" + video_id + "/0.jpg)") as Thumbnail,
+  file.link as Title,
+  date as "Published"
+FROM "NonCompete/Videos"
+SORT date DESC
