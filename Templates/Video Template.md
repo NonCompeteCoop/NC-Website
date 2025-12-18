@@ -5,10 +5,18 @@ video_id: "YOUTUBE_ID"
 brand: "NonCompete"
 created: 2025-12-18
 type: "video"
-syntaxMode: mdx
 ---
 
-<YouTube id={frontmatter.video_id} />
+<div class="video-container">
+  <iframe 
+    src={`https://www.youtube.com/embed/${frontmatter.video_id}`}
+    title="YouTube video player" 
+    frameborder="0" 
+    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+    allowfullscreen
+    style={{ width: '100%', aspectFill: '16/9', minHeight: '400px' }}>
+  </iframe>
+</div>
 
 ## About this video
 (Your summary or transcript goes here.)
