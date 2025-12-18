@@ -1,7 +1,7 @@
 {
   "nav": {
     "logo": "logo.png",
-    "title": "My Page"
+    "title": "My Page",
     "links": [
       {
         "href": "/shop",
