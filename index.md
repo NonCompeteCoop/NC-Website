@@ -6,6 +6,6 @@ image: /media/Givebutter-Part-3.jpg
 
 This is a test! This is only a test!
 
-[[NonCompete/Index|NonCompete]]
-[[LunaOi/Index|Luna Oi]]
-[[BanyanHouse/Index|BanyanHouse]]
+[[NonCompete/index|NonCompete]]
+[[LunaOi/index|Luna Oi]]
+[[BanyanHouse/index|BanyanHouse]]
