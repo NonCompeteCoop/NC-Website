@@ -1,29 +1,3 @@
 {
-  "nav": {
-    "logo": "logo.png",
-    "title": "My Page",
-    "links": [
-      {
-        "href": "/shop",
-        "name": "Shop"
-      },
-      {
-        "href": "/about",
-        "name": "About"
-      }
-    ],
-    "social": [
-      {
-        "label": "youtube",
-        "name": "YouTube",
-        "href": "https://youtube.com/noncompete/"
-      },
-      {
-        "label": "twitter",
-        "name": "Follow me on Twitter",
-        "href": "https://twitter.com/yourusername"
-      }
-    ]
-  },
   "theme": "letterpress"
 }
