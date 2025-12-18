@@ -1,3 +1,26 @@
+/* Header Elements: ************************************* */
+
+/* Header Image: */
+.page-header-image-container {
+ width: 70%;
+}
+
+/* Embeds: ************************************* */
+
+/* iframes: */
+iframe {
+ height: auto;
+}
+
+/* PDF Viewer: */
+
+.internal {
+ width: 70%;
+ height: 75vh;
+}
+
+/* YouTube Video Embed Styling: */
+
 .yt-small {
 aspect-ratio: 16 / 9 !important;
  width: 70%;"
