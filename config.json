@@ -1,3 +1,7 @@
 {
+  "nav": {
+    "logo": "logo.png",
+    "title": "My Page"
+  },
   "theme": "letterpress"
 }
