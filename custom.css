@@ -28,3 +28,9 @@ aspect-ratio: 16 / 9 !important;
 iframe {
  height: auto;
 }
+
+/* LUNA PAGE STYLING **************************** */
+
+.lunapage .page-header-title {
+ font-size: 300px;
+}
