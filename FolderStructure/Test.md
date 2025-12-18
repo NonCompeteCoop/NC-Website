@@ -1,5 +1,5 @@
 ---
-cssclasses:
+layout:
   - lunapage
 ---
 Hey!
