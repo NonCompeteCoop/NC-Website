@@ -1,5 +1,3 @@
-[[test-nc-video]]
-
 ---
 title: "Non-Compete Home"
 ---
@@ -7,4 +5,4 @@ title: "Non-Compete Home"
 # Non-Compete Collective
 
 ## 🎥 Video Archive
-<MdxFileList folder="/NonCompete/Videos" />
+<MdxFileList folder="../NonCompete/Videos" />
