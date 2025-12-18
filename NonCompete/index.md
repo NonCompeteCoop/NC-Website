@@ -10,3 +10,4 @@ FROM "NonCompete/Videos"
 WHERE file.name != "index"
 SORT date DESC
 ```
+<!-- QueryToSerialize: LIST FROM #foo  -->
