@@ -1,10 +1,10 @@
 ---
-title: "TITLE_HERE"
-description: "A brief summary."
-video_id: "GPcCYgyPJ0k"
-brand: "NonCompete"
-created: 2025-12-18
-type: "video"
+title: TITLE_HERE
+description: A brief summary.
+video_id: GPcCYgyPJ0k
+brand: NonCompete
+date: 2025-12-18
+type: video
 ---
 
 <div class="video-container">
