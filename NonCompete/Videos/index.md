@@ -5,4 +5,4 @@ showFileList: true
 
 # Video Archive
 
-<FileList folder="NonCompete/Videos" />
+<SimpleList folder="NonCompete/Videos" />
